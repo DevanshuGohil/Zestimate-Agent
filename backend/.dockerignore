@@ -1,0 +1,40 @@
+# Version control
+.git
+.gitignore
+
+# Python caches
+__pycache__
+*.py[cod]
+*.pyo
+.mypy_cache
+.ruff_cache
+.pytest_cache
+
+# Virtual environments
+.venv
+venv
+
+# Dev / test artifacts
+tests/
+evals/
+*.egg-info
+dist/
+build/
+htmlcov/
+.coverage
+coverage.xml
+
+# Secrets — never bake into the image
+.env
+*.env
+
+# UI source — only built dist/ is needed if you serve static files from FastAPI
+ui/node_modules
+ui/src
+ui/.vite
+
+# Editor / OS noise
+.DS_Store
+.idea
+.vscode
+*.swp

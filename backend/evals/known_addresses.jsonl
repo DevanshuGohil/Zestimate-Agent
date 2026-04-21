@@ -1,0 +1,20 @@
+{"id": "sf_lombard", "address": "101 Lombard St, San Francisco, CA 94111", "expected_zpid": "2101967478", "expected_zestimate": null, "notes": "iconic SF street; confirmed live"}
+{"id": "nyc_broadway_tribeca", "address": "443 Greenwich St, New York, NY 10013", "expected_zpid": null, "expected_zestimate": null, "notes": "TriBeCa condo"}
+{"id": "la_venice", "address": "28 Horizon Ave, Venice, CA 90291", "expected_zpid": null, "expected_zestimate": null, "notes": "Venice Beach area SFH"}
+{"id": "chicago_lincoln_park", "address": "2100 N Lincoln Park W, Chicago, IL 60614", "expected_zpid": null, "expected_zestimate": null, "notes": "Lincoln Park high-rise"}
+{"id": "miami_beach", "address": "1500 Bay Rd, Miami Beach, FL 33139", "expected_zpid": null, "expected_zestimate": null, "notes": "Miami Beach condo"}
+{"id": "seattle_capitol_hill", "address": "1514 E Olive Way, Seattle, WA 98102", "expected_zpid": null, "expected_zestimate": null, "notes": "Capitol Hill SFH"}
+{"id": "austin_travis_heights", "address": "1608 E Riverside Dr, Austin, TX 78741", "expected_zpid": null, "expected_zestimate": null, "notes": "Austin SFH"}
+{"id": "boston_back_bay", "address": "280 Newbury St, Boston, MA 02116", "expected_zpid": null, "expected_zestimate": null, "notes": "Back Bay brownstone area"}
+{"id": "denver_highlands", "address": "2901 W 25th Ave, Denver, CO 80211", "expected_zpid": null, "expected_zestimate": null, "notes": "Highlands SFH"}
+{"id": "portland_pearl", "address": "1255 NW 9th Ave, Portland, OR 97209", "expected_zpid": null, "expected_zestimate": null, "notes": "Pearl District condo"}
+{"id": "nashville_12south", "address": "2304 Crestmoor Rd, Nashville, TN 37215", "expected_zpid": null, "expected_zestimate": null, "notes": "Green Hills SFH"}
+{"id": "phoenix_scottsdale", "address": "8900 E Pinnacle Peak Rd, Scottsdale, AZ 85255", "expected_zpid": null, "expected_zestimate": null, "notes": "Scottsdale area"}
+{"id": "atlanta_midtown", "address": "870 Inman Village Pkwy NE, Atlanta, GA 30307", "expected_zpid": null, "expected_zestimate": null, "notes": "Inman Park townhome"}
+{"id": "minneapolis_lake", "address": "2601 Humboldt Ave S, Minneapolis, MN 55408", "expected_zpid": null, "expected_zestimate": null, "notes": "near Lake Calhoun"}
+{"id": "dc_capitol_hill", "address": "524 A St SE, Washington, DC 20003", "expected_zpid": null, "expected_zestimate": null, "notes": "Capitol Hill rowhouse"}
+{"id": "san_diego_la_jolla", "address": "1234 Prospect St, La Jolla, CA 92037", "expected_zpid": null, "expected_zestimate": null, "notes": "La Jolla SFH"}
+{"id": "charlotte_dilworth", "address": "1800 Scott Ave, Charlotte, NC 28203", "expected_zpid": null, "expected_zestimate": null, "notes": "Dilworth SFH"}
+{"id": "columbus_german_village", "address": "601 Mohawk St, Columbus, OH 43206", "expected_zpid": null, "expected_zestimate": null, "notes": "German Village brick"}
+{"id": "raleigh_downtown", "address": "618 N West St, Raleigh, NC 27603", "expected_zpid": null, "expected_zestimate": null, "notes": "downtown Raleigh SFH"}
+{"id": "las_vegas_summerlin", "address": "2285 Village Walk Dr, Henderson, NV 89052", "expected_zpid": null, "expected_zestimate": null, "notes": "Henderson suburb"}
