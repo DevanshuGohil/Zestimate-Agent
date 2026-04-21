@@ -4,6 +4,8 @@ Production-grade tool that, given any US property address, returns the **current
 
 ## Architecture
 
+![System Architecture](zestimate_agent_architecture.svg)
+
 ```
                      ┌──────────────────────────────────────────────────────────┐
                      │  Docker Compose                                          │
